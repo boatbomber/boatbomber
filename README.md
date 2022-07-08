@@ -30,7 +30,7 @@ Creator of Lua Learning • Founder of @TorpedoSoftware • 4x SWE Intern @Roblo
 
 ## GitHub Stats
 
-![boatbombers's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=boatbomber&count_private=true&show_icons=true)
+![boatbombers's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=boatbomber&count_private=true&show_icons=true&hide=issues)
 
 ## Connect with me
 
