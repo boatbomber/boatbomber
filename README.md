@@ -19,8 +19,8 @@ Creator of Lua Learning • Founder of @TorpedoSoftware • 4x SWE Intern @Roblo
 - Was the headliner of two episodes of LevelUp on the topic of education in gaming [[5]](https://www.youtube.com/watch?v=hCT9zCJ1M5c) [[6]](https://www.youtube.com/watch?v=97MahOa0tns)
 - Gave an interactive workshop/lecture about Roblox gamedev at the 66th World Congress of the IPSF
 - Won Best in Visual Art in RDC2020’s Gamejam and again in RDC2021's Gamejam
-- Earned 3 Bloxy Award nominations from Roblox (Quirkiest Game, Best Live Event, Most Educational Game)
-- Won 2 Bloxy Awards (Best Live Event, Most Educational Game)
+- Earned 4 Bloxy Award nominations from Roblox (Quirkiest Game, Best Live Event, Most Educational Game, Most Immersive Environment)
+- Won 3 Bloxy Awards (Best Live Event, Most Educational Game, Most Immersive Environment)
 - Youngest Software Engineering intern @ Roblox in Summer 2020
 - Serving as an Official Event Organizer for Roblox
 - Invited into the beta Plugin Marketplace by Roblox
