@@ -1,6 +1,6 @@
 ### Hi there, I'm Zack (aka boatbomber) 👋
 
-Creator of Lua Learning • Founder of @TorpedoSoftware • 4x SWE Intern @Roblox • 4x Bloxy Nominee & 3x Bloxy Winner • 2x RDC Gamejam Winner
+Creator of Lua Learning • Founder of @TorpedoSoftware • 5x SWE Intern @Roblox • 4x Bloxy Nominee & 3x Bloxy Winner • 2x RDC Gamejam Winner
 
 [![Website](https://img.shields.io/website?label=boatbomber.com&style=for-the-badge&url=https%3A%2F%2Fboatbomber.com)](https://www.boatbomber.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoatbomberRBLX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=BoatbomberRBLX)
