@@ -5,9 +5,8 @@ Creator of Lua Learning • Founder of @TorpedoSoftware • 5x SWE Intern @Roblo
 [![Website](https://img.shields.io/website?label=boatbomber.com&style=for-the-badge&url=https%3A%2F%2Fboatbomber.com)](https://www.boatbomber.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoatbomberRBLX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=BoatbomberRBLX)
 
-## I'm a Student, Software Engineer, Game Developer, and Educator!
+## I'm a Software Engineer, Game Developer, and Educator!
 
-- 👨‍🎓 Currently studying for my Computer Science major at CUNY Brooklyn College
 - 👷‍♂️ Actively contributing to the Roblox open source community
 - 🛠️ Building Lua Learning, a free-to-use platform for interactive learning
 
