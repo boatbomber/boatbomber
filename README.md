@@ -1,6 +1,6 @@
 ### Hi there, I'm Zack (aka boatbomber) 👋
 
-Creator of Lua Learning • Founder of @TorpedoSoftware • 5x SWE Intern @Roblox • 4x Bloxy Nominee & 3x Bloxy Winner • 2x RDC Gamejam Winner
+Creator of Lua Learning • Founder of @TorpedoSoftware • 5x SWE Intern @Roblox • 5x Bloxy Nominee & 3x Bloxy Winner • 2x RDC Gamejam Winner
 
 [![Website](https://img.shields.io/website?label=boatbomber.com&style=for-the-badge&url=https%3A%2F%2Fboatbomber.com)](https://www.boatbomber.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoatbomberRBLX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboatbomber&screen_name=BoatbomberRBLX)
@@ -18,7 +18,7 @@ Creator of Lua Learning • Founder of @TorpedoSoftware • 5x SWE Intern @Roblo
 - Was the headliner of two episodes of LevelUp on the topic of education in gaming [[5]](https://www.youtube.com/watch?v=hCT9zCJ1M5c) [[6]](https://www.youtube.com/watch?v=97MahOa0tns)
 - Gave an interactive workshop/lecture about Roblox gamedev at the 66th World Congress of the IPSF
 - Won Best in Visual Art in RDC2020’s Gamejam and again in RDC2021's Gamejam
-- Earned 4 Bloxy Award nominations from Roblox (Quirkiest Game, Best Live Event, Most Educational Game, Most Immersive Environment)
+- Earned 5 Bloxy Award nominations from Roblox (Quirkiest Game, Best Live Event, Most Educational Game, Most Immersive Environment, Best Educational Game)
 - Won 3 Bloxy Awards (Best Live Event, Most Educational Game, Most Immersive Environment)
 - Youngest Software Engineering intern @ Roblox in Summer 2020
 - Serving as an Official Event Organizer for Roblox
